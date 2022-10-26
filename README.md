@@ -10,7 +10,7 @@
   <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/fabioyamashita10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-## 💻 Languages and Tools
+## 💻 Technologies
 
 <div style="display: inline_block">
     <img align="center" alt="csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
