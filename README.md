@@ -6,6 +6,9 @@
 - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/fabioksyamashita/" target="_blank">
   <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Fabio&nbsp;Yamashita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto: fabioyamashita10@gmail.com" target="_blank">
+  <img align="center" height="22" alt="gmail" src="https://img.shields.io/badge/fabioyamashita10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
 ## 💻 Languages and Tools
 
