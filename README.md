@@ -1,6 +1,6 @@
 <h1 align="left"><b> Hi there 👋, I'm Fabio Yamashita!</b></h1>
 
-- 🔭 I’m a Trainee Full Stack Web Developer
+- 🔭 I’m a Full Stack Web Developer Trainee
 - 💼 I'm currently working at Banco Safra
 - 👨‍💻 See my portfolio website at: [fabioyamashita.dev](https://link-url-here.org](https://fabioyamashita.dev/))
 - 🌱 I’m currently learning Front-End
