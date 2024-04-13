@@ -3,7 +3,6 @@
 - 🔭 I’m a Full Stack Developer
 - 💼 I'm currently working at Safra Bank
 - 👨‍💻 See my portfolio website at: [fabioyamashita.dev](https://fabioyamashita.dev/)
-- 🌱 I’m currently studying Node.js and Angular
 - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/fabioksyamashita/" target="_blank">
   <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Fabio&nbsp;Yamashita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
