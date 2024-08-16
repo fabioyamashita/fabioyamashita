@@ -1,7 +1,7 @@
 <h1 align="left"><b> Hi there 👋, I'm Fabio Yamashita!</b></h1>
 
-- 🔭 I’m a Full Stack Developer
-- 💼 I'm currently working at Safra Bank
+- 🔭 I’m a Software Engineer
+- 💼 I'm currently working at Itaú Bank
 - 👨‍💻 See my portfolio website at: [fabioyamashita.dev](https://fabioyamashita.dev/)
 - 📫 How to reach me: &nbsp; <a href="https://www.linkedin.com/in/fabioksyamashita/" target="_blank">
   <img align="center" height="22" alt="linkedin" src="https://img.shields.io/badge/Fabio&nbsp;Yamashita-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
